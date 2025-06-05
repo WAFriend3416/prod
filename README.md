@@ -2,6 +2,8 @@ Markdown documentation created by [pyLODE](http://github.com/rdflib/pyLODE) 2.4
 
 # AAS Production Submodel (PROD)
 
+**Development branch `dev` created as starting point for project tasks.**
+
 ## Metadata
 * **IRI**
   * `https://rub-informatik-im-bauwesen.github.io/prod`
